@@ -16,3 +16,5 @@ CodePen links:
 [Lesson 10 Creating SVG Elements Based on Data](http://codepen.io/jannypie/pen/JsuhE)
 
 [Lesson 11 Using the SVG Coordinate Space](http://codepen.io/jannypie/pen/ehFIL?editors=001) 
+
+[Lesson 12 Using JSON to Simplify Code](http://codepen.io/jannypie/pen/Ezqvy?editors=001)
