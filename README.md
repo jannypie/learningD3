@@ -17,4 +17,4 @@ CodePen links:
 
 [Lesson 11 Using the SVG Coordinate Space](http://codepen.io/jannypie/pen/ehFIL?editors=001) 
 
-[Lesson 12 Using JSON to Simplify Code](http://codepen.io/jannypie/pen/Ezqvy?editors=001)
+[Lesson 13 Using JSON to Simplify Code](http://codepen.io/jannypie/pen/Ezqvy?editors=001)
