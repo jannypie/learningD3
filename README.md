@@ -24,3 +24,6 @@ CodePen links:
 Back at it
 
 [Lesson 18 SVG Group Element and D3.js](http://codepen.io/jannypie/pen/rxiJl?editors=001)
+
+[Lesson 19 SVG Text Elements](http://codepen.io/jannypie/pen/mAJoB?editors=001)
+
