@@ -27,3 +27,6 @@ Back at it
 
 [Lesson 19 SVG Text Elements](http://codepen.io/jannypie/pen/mAJoB?editors=001)
 
+May 21: Have been taking time off from learning while work is busy. Attending a d3.js meetup in Columbus, Ohio tonight, however, and attempting to complete their code practice. 
+[JS Fiddle : OpenBeerDatabase API](http://jsfiddle.net/d67FY/1/)
+
