@@ -30,3 +30,5 @@ Back at it
 May 21: Have been taking time off from learning while work is busy. Attending a d3.js meetup in Columbus, Ohio tonight, however, and attempting to complete their code practice. 
 [JS Fiddle : OpenBeerDatabase API](http://jsfiddle.net/d67FY/1/)
 
+And here is the final result of that --- not the prettiest, but it's real data! [Final JS Fiddle : OpenBeerDatabase API](http://jsfiddle.net/d67FY/5/)
+
