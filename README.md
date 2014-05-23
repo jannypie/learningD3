@@ -37,3 +37,9 @@ Back to DashingD3
 [Lesson 20 D3.js Axes - Built onto the JSFiddle](http://jsfiddle.net/d67FY/6/)
 
 And that's actually the last of the basic D3 lessons on DashingD3js.com before you hit a paywall. Overall, the previous tutorials were clearly written and easy to follow, and I feel that I have a good introduction to D3.
+
+
+Tutorials from [alignedleft.com, Scott Murray](http://alignedleft.com/tutorials/d3/)
+------------------------------------------------------------------------------------
+
+I came across this tutorial while building my OpenBeerDatabase exercise, so it fits that I'll work through it next, using the same code. [Making Bar Charts](http://jsfiddle.net/d67FY/7/): 
