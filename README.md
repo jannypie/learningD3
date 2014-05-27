@@ -52,7 +52,8 @@ I came across this tutorial while building my OpenBeerDatabase exercise, so it f
 
 That's the end of the alignedleft tutorials. I understand scales and axes much better now than when I [read about them the first time](http://bost.ocks.org/mike/bar/).
 
+[Let's Make A Bar Chart I,II and III](http://bost.ocks.org/mike/bar/)
+---------------------------------------------------------------------
 
-
-
+[CodePen Bar Chart with Axes, Labels, Scales](http://codepen.io/jannypie/pen/urfJv) I actually found these tutorials difficult to follow, probably because I am not quite quick enough with D3 yet to see the jumps from example to example. I modified the chart example, however, to something that worked for me and then built on that to create additional x-axis label and chart title.
 
