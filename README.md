@@ -42,4 +42,4 @@ And that's actually the last of the basic D3 lessons on DashingD3js.com before y
 Tutorials from [alignedleft.com, Scott Murray](http://alignedleft.com/tutorials/d3/)
 ------------------------------------------------------------------------------------
 
-I came across this tutorial while building my OpenBeerDatabase exercise, so it fits that I'll work through it next, using the same code. [Making Bar Charts](http://jsfiddle.net/d67FY/7/): 
+I came across this tutorial while building my OpenBeerDatabase exercise, so it fits that I'll work through it next, using the same code. This is the same beer data as previous but with the data starting from the bottom rather than the top, and labelled more nicely. [Making Bar Charts](http://jsfiddle.net/d67FY/7/)
