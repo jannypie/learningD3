@@ -50,7 +50,9 @@ I came across this tutorial while building my OpenBeerDatabase exercise, so it f
 
 [Scatterplot using scales and axes](http://codepen.io/jannypie/pen/EBHKG)
 
-That's the end of the alignedleft tutorials. I understand scales and axes much better now, and want to continue on.
+That's the end of the alignedleft tutorials. I understand scales and axes much better now than when I [read about them the first time](http://bost.ocks.org/mike/bar/).
+
+
 
 
 
