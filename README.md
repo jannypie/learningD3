@@ -47,3 +47,10 @@ I came across this tutorial while building my OpenBeerDatabase exercise, so it f
 [Making a scatterplot](http://jsfiddle.net/d67FY/8/) Same data as before, just more circles
 
 [Scatterplot using scales to plot data](http://codepen.io/jannypie/pen/fLwJG?editors=001)
+
+[Scatterplot using scales and axes](http://codepen.io/jannypie/pen/EBHKG)
+
+That's the end of the alignedleft tutorials. I understand scales and axes much better now, and want to continue on.
+
+
+
