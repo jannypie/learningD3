@@ -46,4 +46,4 @@ I came across this tutorial while building my OpenBeerDatabase exercise, so it f
 
 [Making a scatterplot](http://jsfiddle.net/d67FY/8/) Same data as before, just more circles
 
-
+[Scatterplot using scales to plot data](http://codepen.io/jannypie/pen/fLwJG?editors=001)
